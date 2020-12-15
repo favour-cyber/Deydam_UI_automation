@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/Dammyololade/Desktop/UI_AUTOMATION_TASK/Selenium_Webdriver/Single_Page_Approach/DeyDam"><classes><class name="Login.LoginTest"><methods><include name="testSuccessfulLogin"/><include name="testLogout"/><include name="testNegativeLogin"/></methods></class></classes></test></suite>
